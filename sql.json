@@ -1,0 +1,1 @@
+[{"description":"Example Query","sql":"SELECT * FROM Users WHERE Id = '{{UserId}}' OR FirstName = '{{FirstName}}'"}]
